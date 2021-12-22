@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.parent li {
+  color: #ff0000;
+  padding: 10px 0;
+  margin: 10px 0;
+  text-align: center;
+  width: 15rem;
+  border-radius: 10px;
+  font-size: 1.3rem;
+}/*# sourceMappingURL=style.css.map */
